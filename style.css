@@ -1,0 +1,71 @@
+*{
+    
+    margin: 0;
+}
+header{
+    width: 100%;
+}
+.navbar{
+    color: #fff;
+}
+.navbar-toggler{
+    color: #fff;
+}
+.sectionbutton{
+    border-color: #fff;
+}
+.card {
+    margin: 0 auto; 
+    float: none;
+    margin-bottom: 10px; 
+}
+.text{
+    text-decoration: none;
+    columns: #fff;
+}
+.button{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    border-radius: 10px;
+    align-items: center;
+    color: #fff;
+   padding: 2px 20px;
+    border: none;
+    background: none;
+    border-bottom: 5px solid yellow;
+    font-size: 30px;
+}
+.button:hover{
+    color: black;
+    background: yellow;
+    transition: .3s;
+}
+#viewmore{
+    display: flex;
+   justify-content: center;
+    width: 100%;
+    align-items: center;
+}
+.foot{
+    color: #fff;
+    padding: 10px;
+}
+.select-bar{
+    color: #fff;
+    background-color: black;
+    border: none;
+}
+.foot:hover{
+    color: yellow;
+    text-decoration: none;
+   }
+   .select-bar:hover{
+    color: yellow;
+    text-decoration: none;
+
+   }
+   option{
+    color: #fff;
+
+   }
+   
